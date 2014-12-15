@@ -1,7 +1,7 @@
 module Nvd3
   module Liquidpele
     module Rails
-      VERSION = "0.0.1"
+      VERSION = "1.7.0"
     end
   end
 end
