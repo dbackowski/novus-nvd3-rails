@@ -1,12 +1,12 @@
-# Nvd3::Liquidpele::Rails
+# Nvd3::Community::Rails
 
-Asset pipeline bundling of the nvd3 library fork by liquidpele (https://github.com/liquidpele/nvd3).
+Asset pipeline bundling of the nvd3-community library (https://github.com/nvd3-community/nvd3/).
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'nvd3-liquidpele-rails'
+    gem 'nvd3-community-rails'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install nvd3-liquidpele-rails
+    $ gem install nvd3-community-rails
 
 In your application.css.scss:
 
@@ -27,7 +27,7 @@ And in your application.js:
 
 ## Usage
 
-http://liquidpele.github.io/nvd3/
+https://nvd3-community.github.io/nvd3
 
 ## Contributing
 
