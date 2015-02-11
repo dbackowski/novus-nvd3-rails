@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'nvd3/community/rails/version'
+require 'novus/nvd3/rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "nvd3-community-rails"
-  spec.version       = Nvd3::Community::Rails::VERSION
+  spec.name          = "novus-nvd3-rails"
+  spec.version       = Novus::Nvd3::Rails::VERSION
   spec.authors       = ["dbackowski"]
   spec.email         = ["damianbackowski@gmail.com"]
   spec.summary       = %q{Nvd3 - reusable chart library for d3.js.}
   spec.description   = %q{Asset pipeline bundling of the nvd3-community library.}
-  spec.homepage      = "https://github.com/dbackowski/nvd3-community-rails"
+  spec.homepage      = "https://github.com/dbackowski/novus-nvd3-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

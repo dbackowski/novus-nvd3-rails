@@ -1,12 +1,12 @@
-# Nvd3::Community::Rails
+# Novus::Nvd3::Rails
 
-Asset pipeline bundling of the nvd3-community library (https://github.com/nvd3-community/nvd3/).
+Asset pipeline bundling of the novus nvd3 library (https://github.com/novus/nvd3).
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'nvd3-community-rails'
+    gem 'novus-nvd3-rails'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install nvd3-community-rails
+    $ gem install novus-nvd3-rails
 
 In your application.css.scss:
 

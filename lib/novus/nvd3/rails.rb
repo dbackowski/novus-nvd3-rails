@@ -1,7 +1,7 @@
-require "nvd3/community/rails/version"
+require "novus/nvd3/rails/version"
 
-module Nvd3
-  module Community
+module Novus
+  module Nvd3
     module Rails
       class Engine < ::Rails::Engine
       end
