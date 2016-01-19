@@ -1,4 +1,4 @@
-# Novus::Nvd3::Rails
+# Novus::Nvd3::Rails [![Build Status](https://travis-ci.org/dbackowski/novus-nvd3-rails.svg?branch=master)](https://travis-ci.org/dbackowski/novus-nvd3-rails)
 
 Asset pipeline bundling of the novus nvd3 library (https://github.com/novus/nvd3).
 
